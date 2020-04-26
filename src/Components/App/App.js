@@ -36,8 +36,7 @@ class App extends React.Component {
         let tracks = this.state.playlistTracks;
         tracks = tracks.filter(currentTrack => currentTrack.id !== track.id);
 
-        this.setState({playlistTranks: tracks});
-
+        this.setState({playlistTracks: tracks});
     }
 
   render(){
