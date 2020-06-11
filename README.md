@@ -11,8 +11,6 @@
 * Provide a way to fetch and see all your existing playlists
 
 
-
-
 ## Available Scripts
 
 In the project directory, you can run:
