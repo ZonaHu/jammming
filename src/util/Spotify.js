@@ -1,5 +1,5 @@
 const clientId = ''; // Obtain client ID from https://developer.spotify.com/, for sercurity reasons, I won't put it here.
-const redirectUri = 'http://react-is-fun.surge.sh'; // was httsp://localhost.3000
+const redirectUri = 'http://react-is-fun.surge.sh'; //it was https://localhost.3000
 let accessToken;
 
 const Spotify = {
